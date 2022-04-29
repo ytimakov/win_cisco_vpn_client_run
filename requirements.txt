@@ -1,0 +1,5 @@
+setuptools
+pyautoit
+pypiwin32
+pywin32
+PyAutoGUI
